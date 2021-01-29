@@ -38,7 +38,7 @@
     "graphql-yoga": "^1.18.3",
     "isomorphic-unfetch": "^3.0.0",
     "jsonwebtoken": "^8.5.1",
-    "next": "^9.1.7",
+    "next": "^9.3.2",
     "node-sass": "^4.13.1",
     "nprogress": "^0.2.0",
     "pigeon-maps": "^0.15.0",
